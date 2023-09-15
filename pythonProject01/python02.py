@@ -1,0 +1,7 @@
+print ("Hi",end=" ")
+print ("Hello",end=" ")
+print ("Hello World")
+print (150658)
+print ('false')
+print (True)
+print (10+10+12+20+355)
